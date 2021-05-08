@@ -4,7 +4,7 @@ The goal of this repository is to build a set of skills that will allow me to wo
 ## Programming Languages
 ### Python
 - [ ] [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  - [ ] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
+  - [X] [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
   - [ ] [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
   - [ ] [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
   - [ ] [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
